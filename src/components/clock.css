@@ -1,0 +1,11 @@
+.uk-img {
+    max-width: 40%;
+    margin: 0 auto;
+}
+
+.date,
+.time {
+    font-size: 34px;
+    font-weight: bold;
+    margin: 5px 0 0;
+}
